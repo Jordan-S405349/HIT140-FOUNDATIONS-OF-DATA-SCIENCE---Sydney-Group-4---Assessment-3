@@ -1,0 +1,10 @@
+,X1_team_ppg,X2_team_avg_goals_for,X3_opponent_avg_goals_against,X4_host_nation_flag,X5_team_draw_rate,X6_team_failed_to_score_rate,X7_opponent_loss_rate,X8_opponent_clean_sheet_rate,goals_scored
+X1_team_ppg,1.0,0.8163,0.1307,0.1514,0.0412,-0.1699,-0.0128,0.3936,0.0562
+X2_team_avg_goals_for,0.8163,1.0,0.1658,0.1404,0.0426,-0.2865,0.0686,0.4009,0.0582
+X3_opponent_avg_goals_against,0.1307,0.1658,1.0,-0.0378,0.1533,0.3171,0.7387,-0.3038,0.1482
+X4_host_nation_flag,0.1514,0.1404,-0.0378,1.0,-0.0772,-0.1481,-0.0196,-0.0474,0.1041
+X5_team_draw_rate,0.0412,0.0426,0.1533,-0.0772,1.0,0.1293,0.0333,0.1186,0.1249
+X6_team_failed_to_score_rate,-0.1699,-0.2865,0.3171,-0.1481,0.1293,1.0,0.2425,-0.0148,-0.0715
+X7_opponent_loss_rate,-0.0128,0.0686,0.7387,-0.0196,0.0333,0.2425,1.0,-0.2363,0.1744
+X8_opponent_clean_sheet_rate,0.3936,0.4009,-0.3038,-0.0474,0.1186,-0.0148,-0.2363,1.0,-0.1876
+goals_scored,0.0562,0.0582,0.1482,0.1041,0.1249,-0.0715,0.1744,-0.1876,1.0
