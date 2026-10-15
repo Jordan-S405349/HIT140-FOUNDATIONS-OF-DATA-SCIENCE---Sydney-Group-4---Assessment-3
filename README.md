@@ -13,7 +13,7 @@ The analysis uses data sourced from:
   https://fbref.com/en/
 All explanatory variables are based on information available before the match being predicted to avoid target leakage.
 
-## Team Mmmber
+## Team Member
 
 | Student ID | Full Name |
 |---|---|
